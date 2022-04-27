@@ -32,7 +32,8 @@ Space Shooter, muito legal.
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ********************************************************************************
 🔑 Caso você queria conhece o projeto original Link do 
-[Repositório do Projeto:] (https://github.com/SpruceGabriela/space-shooter-dio)
+[Repositório do Projeto:](https://github.com/SpruceGabriela/space-shooter-dio)
+
 ***********************************************************
 # 🤝🏼 Caso tenham alguma dúvida, pode entrar em contato comigo. 💌
  
